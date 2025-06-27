@@ -1,4 +1,4 @@
-# Personal Finance PDF Analyzer
+# Personal Finance Analyzer
 
 This is a personal finance web application built to extract, categorize, and organize transactions from banking PDF statements — both **checking and credit card accounts**. The goal is to evaluate and visualize personal finances in a structured, scalable way.
 
